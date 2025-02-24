@@ -1,7 +1,7 @@
 # Austin-Music-Gigs-Predictor
 
 This project evaluates different models to predict the number of paid monthly gigs Austin musicians receive.
-We evalaute the performance of 2 KNN models:
+Using a 5-fold cross-validation, we evalaute the performance of 2 KNN models:
 
 1) Based on spending on publicity, merchandise, and gear
    

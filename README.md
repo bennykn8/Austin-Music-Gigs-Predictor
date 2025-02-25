@@ -1,11 +1,15 @@
 # Austin-Music-Gigs-Predictor
 
+This repository contains:
+* Exploratory data analysis report containing an extensive examination of the dataset through visualizations prior to implementing classification models.
+* Final report containing implementation of classification models, technical analysis, and commentary over full research process.
+
 This project evaluates different models to predict the number of paid monthly gigs Austin musicians receive.
 Using a 5-fold cross-validation, we evalaute the performance of 2 KNN models:
 
-1) Based on spending on publicity, merchandise, and gear
+* Based on spending on publicity, merchandise, and gear
    
-3) Based on musicians' distance to downtwon Austin and booking service used
+* Based on musicians' distance to downtwon Austin and booking service used
 
 **Original Dataset**: 
 
